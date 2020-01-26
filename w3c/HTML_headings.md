@@ -103,7 +103,7 @@ w3schools의 태그 레퍼런스는 이러한 태그에 관해 그들의 속성�
 
 
 
-[HTML 단락](./HTML_paragraphs.md)
+[HTML 단락](./w3c/HTML_paragraphs.md)
 
 
 

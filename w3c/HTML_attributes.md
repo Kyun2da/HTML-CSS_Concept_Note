@@ -180,6 +180,6 @@ w3c에서 HTML은 인용구를 추천하지만 XHTML은 고정적으로 인용�
 | style    | 요소의 인라인 CSS 스타일을 지정합니다                        |
 | title    | 요소에 대한 추가 정보를 지정합니다 (툴팁으로 표시됨)         |
 
-[HTML headings](./HTML_headings.md)
+[HTML headings](./w3c/HTML_headings.md)
 
 
