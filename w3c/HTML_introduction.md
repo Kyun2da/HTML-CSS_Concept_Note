@@ -82,4 +82,4 @@ HTML을 위한 `<!DOCTYPE>`  선언은
 | XHTML     | 2000 |
 | HTML5     | 2014 |
 
-[HTML 기본예제들로 가기](./w3c/HTML_basic.md)
+[HTML 기본예제들로 가기](./HTML_basic.md)

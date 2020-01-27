@@ -158,7 +158,7 @@ HTML `<sup>` 엘리먼트는 수퍼스크립트를 정의합니다.
 | `<del>`    | 삭제 텍스트         |
 | `<mark>`   | 표시된 텍스트       |
 
-[HTML Quotation](./w3c/HTML_quotation.md)
+[HTML Quotation](./HTML_quotation.md)
 
 
 

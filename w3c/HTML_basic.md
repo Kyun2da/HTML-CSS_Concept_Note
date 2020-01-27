@@ -99,5 +99,5 @@ HTML 리스트들은 순서가 있는 리스트와 순서가 없는 리스트가
 </ol>
 ```
 
-[HTML 원소들로가기](./w3c/HTML_elements.md)
+[HTML 원소들로가기](./HTML_elements.md)
 

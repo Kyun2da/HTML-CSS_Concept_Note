@@ -153,5 +153,5 @@ HTML 태그는 대소 문자를 구분하지 않습니다. `<P>`는 `<p>`와 동
 
 HTML5 표준에는 소문자 태그가 필요하지 않지만 W3C는 HTML에서 소문자를 권장하며 XHTML과 같은보다 엄격한 문서 유형에는 소문자를 요구합니다.
 
-[HTML 속성들](./w3c/HTML_attributes.md)
+[HTML 속성들](./HTML_attributes.md)
 

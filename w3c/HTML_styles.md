@@ -90,7 +90,7 @@ CSS `text-align` 속성은 HTML 엘리먼트의 텍스트 수평정렬을 정의
 
 
 
-[HTML Text Formatting](./w3c/HTML_textformatting.md)
+[HTML Text Formatting](./HTML_textformatting.md)
 
 
 

@@ -107,7 +107,7 @@ W3Schools의 태그 레퍼런스는 HTML 엘리먼트와 그것들의 속성에 
 
 
 
-[HTML Styles](./w3c/HTML_styles.md)
+[HTML Styles](./HTML_styles.md)
 
 
 

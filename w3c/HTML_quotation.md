@@ -92,4 +92,4 @@ HTML `<bdo>` 엘리먼트는 방향을 바꿔서 보여줍니다.
 <bdo dir="rtl">This text will be written from right to left</bdo>
 ```
 
-[HTML_comments](/w3c/HTML_comments.md)
+[HTML_comments](/HTML_comments.md)
