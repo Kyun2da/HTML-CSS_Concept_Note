@@ -15,9 +15,11 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 8. [HTML Text Formatting](./w3c/HTML_textformatting.md)
 9. [HTML Quotation](./w3c/HTML_quotation.md)
 10. [HTML_comments](/w3c/HTML_comments.md)
-11. 
+11. [HTML Colors](/w3c/HTML_colors.md)
 
 ## w3schools.com CSS 한국 번역하며 공부하기
 
 1. [CSS 소개](/w3c/CSS_introduction.md)
 2. [CSS Syntax](./w3c/CSS_Syntax.md)
+3. [CSS Selectors](./w3c/CSS_selectors.md)
+4. [How To Add Css](./w3c/CSS_howtoaddcss.md)
