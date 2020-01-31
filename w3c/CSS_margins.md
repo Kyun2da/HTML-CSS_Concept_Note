@@ -206,3 +206,6 @@ h2 {
 | [margin-left](https://www.w3schools.com/cssref/pr_margin-left.asp) | left 앨리먼트의 마진을 정의한다.              |
 | [margin-right](https://www.w3schools.com/cssref/pr_margin-right.asp) | right 앨리먼트의 마진을 정의한다.             |
 | [margin-top](https://www.w3schools.com/cssref/pr_margin-top.asp) | top 앨리먼트의 마진을 정의한다.               |
+
+[CSS Padding](./CSS_padding.md)
+
