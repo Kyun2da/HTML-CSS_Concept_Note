@@ -211,3 +211,5 @@ p {
 | [outline-offset](https://www.w3schools.com/cssref/css3_pr_outline-offset.asp) | 요소의 윤곽과 가장자리 또는 테두리 사이의 간격을 지정        |
 | [outline-style](https://www.w3schools.com/cssref/pr_outline-style.asp) | 윤곽선의 스타일을 설정                                       |
 | [outline-width](https://www.w3schools.com/cssref/pr_outline-width.asp) | 윤곽선의 너비를 설정                                         |
+
+[CSS Text](./CSS_text.md)
