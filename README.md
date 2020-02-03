@@ -26,6 +26,9 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 19. [HTML id](./HTML_idattribute.md)
 20. [HTML iframes](./w3c/HTML_iframes.md)
 21. [HTML javascript](./w3c/HTML_javascript.md)
+22. [HTML File Paths](./w3c/HTML_filepath.md)
+23. [HTML Head](./w3c/HTML_head.md)
+24. [HTML Layout](./w3c/HTML_layout.md)
 
 ## w3schools.com CSS 한국 번역하며 공부하기
 
@@ -43,4 +46,7 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 12. [CSS Outline](./w3c/CSS_outline.md)
 13. [CSS Text](./w3c/CSS_text.md)
 14. [CSS Fonts](./w3c/CSS_Fonts.md)
+15. [CSS Icons](./w3c/CSS_icons.md)
+16. [CSS Links](./w3c/CSS_links.md)
+17. 
 
