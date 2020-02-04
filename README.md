@@ -29,6 +29,8 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 22. [HTML File Paths](./w3c/HTML_filepath.md)
 23. [HTML Head](./w3c/HTML_head.md)
 24. [HTML Layout](./w3c/HTML_layout.md)
+25. [HTML Responsive Web Design](./w3c/HTML_responsive.md)
+26. [HTML Computer Code Elements](./w3c/HTML_computercode.md)
 
 ## w3schools.com CSS 한국 번역하며 공부하기
 
@@ -48,5 +50,6 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 14. [CSS Fonts](./w3c/CSS_Fonts.md)
 15. [CSS Icons](./w3c/CSS_icons.md)
 16. [CSS Links](./w3c/CSS_links.md)
-17. 
+17. [CSS Tables](./w3c/CSS_tables.md)
+18. [CSS Layout](./CSS_layout.md)
 
