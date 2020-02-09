@@ -60,4 +60,6 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 20. [CSS Position](./w3c/CSS_position.md)
 21. [CSS Layout - Overflow](./w3c/CSS_overflow.md)
 22. [CSS float](./w3c/CSS_float.md)
+23. [CSS inline-block](./w3c/CSS_inlineblock.md)
+24. [CSS Align](./CSS_align.md)
 
