@@ -62,4 +62,6 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 22. [CSS float](./w3c/CSS_float.md)
 23. [CSS inline-block](./w3c/CSS_inlineblock.md)
 24. [CSS Align](./CSS_align.md)
+25. [CSS Combinators](./w3c/CSS_combinators.md)
+26. [CSS Pseudo-class](./CSS_pseudoclasses.md)
 
