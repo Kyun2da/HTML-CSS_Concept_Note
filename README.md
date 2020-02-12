@@ -66,3 +66,5 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 26. [CSS Pseudo-class](./CSS_pseudoclasses.md)
 27. [CSS Pseudo-elements](./w3c/CSS_pseudoelements.md)
 28. [CSS Opacity](./w3c/CSS_opacity.md)
+29. [CSS Navigation Bar](./w3c/CSS_navigationbar.md)
+30. [CSS Dropdowns](./w3c/CSS_dropdowns.md)
