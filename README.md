@@ -3,7 +3,7 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 
 
 
-## w3schools.com HTML 한국 번역하며 공부하기
+## w3schools.com HTML 한국어로 번역하며 공부하기
 
 1. [HTML 소개](./w3c/HTML_introduction.md)
 2. [HTML 기본예제들](./w3c/HTML_basic.md)
@@ -36,7 +36,7 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 29. [HTML Input Types](./w3c/HTML_inputtypes.md)
 30. [HTML Input Attributes](./w3c/HTML_inputattributes.md)
 
-## w3schools.com CSS 한국 번역하며 공부하기
+## w3schools.com CSS 한국어로 번역하며 공부하기
 
 1. [CSS 소개](/w3c/CSS_introduction.md)
 2. [CSS Syntax](./w3c/CSS_Syntax.md)
@@ -68,3 +68,6 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 28. [CSS Opacity](./w3c/CSS_opacity.md)
 29. [CSS Navigation Bar](./w3c/CSS_navigationbar.md)
 30. [CSS Dropdowns](./w3c/CSS_dropdowns.md)
+31. [CSS Image Gallery](./w3c/CSS_imagegallery.md)
+32. [CSS Image Sprites](./w3c/CSS_imagesprites.md)
+33. 
