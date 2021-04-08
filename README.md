@@ -3,6 +3,16 @@ HTML/CSS 개념정리를 하는 곳 입니다.
 
 
 
+## HTML & CSS 중요 개념
+
+HTML
+
+- [HTML 태그의 분류](./conceptNote/html_tag.md)
+
+CSS
+
+- [block vs inline vs inline-block](./conceptNote/block_inline_inline-block.md)
+
 ## w3schools.com HTML 한국어로 번역하며 공부하기
 
 1. [HTML 소개](./w3c/HTML_introduction.md)
